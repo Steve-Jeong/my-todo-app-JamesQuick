@@ -3,7 +3,7 @@
   export let todo;
 </script>
 
-<li class="bg-white flex iterms-center shadow-sm border border-gray-200 rounded-lg my-2 py-2 px-4">
+<li class="bg-white flex iterms-center shadow-sm border border-blue-400 rounded-lg my-2 py-2 px-4">
   <input
     name='completed'
     type='checkbox'
